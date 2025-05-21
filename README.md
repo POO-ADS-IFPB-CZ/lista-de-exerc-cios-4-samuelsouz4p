@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ybM3WQNb)
+#### Questão 1
+##### a) Verdadeira
+##### b) Falsa: O relacionamento "tem um" (ou "has-a") é implementado via composição (ou agregação), não herança.
+##### c) Falsa: Quando uma subclasse redefine um método da superclasse com a mesma assinatura, isso se chama sobrescrita (override), não sobrecarga.
+
